@@ -1,0 +1,1 @@
+This is my first HTML project where my skills will be tested by creating a recipe website. The themes that will be testaed are links, images, lists, and basic boilerplate formatting. I'll also be testing how to use git. 
